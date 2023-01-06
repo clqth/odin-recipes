@@ -1,8 +1,22 @@
-.body {
+body {
     font-family: Arial, Helvetica, sans-serif;
+    background-color: lightgray;
 }
 
-.img.header {
+.header .img {
     width: 400px;
     height: 220.5px;
+}
+
+.header {
+    background-color: #C8812F;
+}
+
+.header h1 {
+    font-size: 45px;
+    color: white;
+}
+
+.ingr, .dir {
+    background-color: ;
 }
